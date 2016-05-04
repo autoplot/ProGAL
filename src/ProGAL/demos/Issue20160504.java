@@ -18,7 +18,7 @@ import java.util.Random;
  * The second seed (4521225099312150406L) shows an input which causes the library
  * to get stuck, jumping back and forth between two tetrahedrons.
  * 
- * @author jbf
+ * @author Jeremy Faden (jbfaden at github)
  */
 public class Issue20160504 {
     public static void main( String[] ss ) {
